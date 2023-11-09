@@ -1,0 +1,14 @@
+Javascript is a powerfull programming language that is used 
+for creating interactive and dynamic web pages.it is client side
+scripting language.
+
+The role in web development
+
+Enhancing user interface
+form validation
+Habdling events
+communicating with server
+Manipulating DOM
+Cross-Browser Compatibility
+Building web Applications
+

@@ -1,0 +1,9 @@
+primitives data represent individual values
+The  name of 5 primitives data types are
+
+Number
+string
+Boolean
+undefined
+Null  
+

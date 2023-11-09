@@ -1,0 +1,7 @@
+Comments in javaScript serve as non-executable text within
+your code that provide explanations, documentation and notes.
+
+comments in javascript are two types
+
+single line commnet //
+multiple line comment /* */

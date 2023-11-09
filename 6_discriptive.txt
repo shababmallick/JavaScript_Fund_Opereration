@@ -1,0 +1,6 @@
+Importance of choosing descriptive and meaningfull'variables
+ 
+ code Readibility
+ self documenting code
+ maintainability
+ collaboration

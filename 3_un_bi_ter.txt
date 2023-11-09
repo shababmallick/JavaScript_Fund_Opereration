@@ -1,0 +1,4 @@
+In javaScript, operators are categorized
+based on the number of operands(values
+or variables) they work with. Here's the differentiate between
+unary, binary, and ternary operators, along with example for each.

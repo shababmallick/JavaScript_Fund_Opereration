@@ -1,0 +1,57 @@
+in javascript, operators are symbols or keywords that perform
+various operations on values and variables Understanding the
+precedence and associativity of operators is important because
+they determine the order in which operators are evaluated
+in an expression, which in turn affects the result of the expression.
+
+1 . precedence:- 
+precedence refers to the order in which different operators are 
+evaluated in an expression.some operators have higher precedence
+than others,meaning they are evaluated first.operators with 
+higher precedence bind more tightly to their operands.
+for example in the   expression '2 + 3 * 4',the multiplication
+('*') has higher precedence than the addition operator('+'),
+so '3 * 4' is evaluated before adding 2, resulting in a value of 14.
+
+Here are some common javascript operators and their precedence
+levels(from highest to lowest);
+
+Grouping: '()'
+Member access: '.' and '[]'
+Function call and constructor call: '()' and 'new' 
+Unary operator: '+' , ' -' ,'!', 'typeof','void','delete','wait'
+Exponentation: '**'
+multiplication and division: "*', '/', '%'
+addition and subtraction: '+' , '-'
+Bitwise shift: '<<' , ' >>' , '>>>'
+Relational operators:- '<' , '>' , '<=', '>=', 'in', 'instanceof'
+Equality operator:- '==', '!=' ,'====', !=='
+Logical AND: '&&'
+Logical OR: '||'
+Conditional(Ternary) operator: '? :' 
+Assignment operator: '=','+=', '-=', '*=', '/=' etc
+
+
+2. Associativity: Associativity refers to the order in which
+opereators of same precedence are evaluated.some operators are
+left-asociativity,Which means they are evaluated from left to 
+right, while others are right-associativity, which means they'
+are operated from right to left. for example, the addition 
+operator('+') is left associativity,so in the expression 1 + 2 + 3, the addition is evaluated from left to right, resulting in 3 as the final value.
+
+Here are some common JavaScript operators and their associativity:
+
+Left-associative: +, -, *, /, &&, ||, =, etc.
+Right-associative: **, =, ? :, etc.
+Understanding these concepts is important for several reasons:
+
+Correctness: Knowing the precedence and associativity of operators helps ensure that expressions are evaluated in the intended order, which can prevent errors in your code.
+
+Readability: Properly formatted expressions are easier to understand for both you and other developers who may work with your code. It makes the code more self-explanatory.
+
+Predictability: Understanding operator precedence and associativity allows you to write code that produces the expected results, reducing debugging time and unexpected behavior.
+
+Optimization: In some cases, knowledge of operator precedence can help you write more efficient code by minimizing the need for parentheses or unnecessary evaluations.
+
+
+

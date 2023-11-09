@@ -1,0 +1,10 @@
+Javascript: it is used for making web pages 
+interactive and user friendly.
+
+it is handling form validation.
+
+while HTML is used for structure the content
+of Web pages.
+
+it defines the elements and layout of web pages.
+it provides the static structure and content of web pages.

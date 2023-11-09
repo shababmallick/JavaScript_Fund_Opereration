@@ -1,0 +1,8 @@
+The purpose of declaring variables in
+javascript is to allocate memory for
+storing and managing data.
+
+in javascript variables are declared using
+the keywords such as 'var', 'let' , 'const'
+
+var are function scoped, which menas they are only assessible within function.
